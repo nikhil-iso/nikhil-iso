@@ -8,7 +8,7 @@ Hi! I'm Nikhil, an electrical engineering student at the University of Saskatche
 - 💻 Currently building my programming skills, especially to complement my engineering work.
 
 **Connect with me:**
-- [LinkedIn](https://www.linkedin.com/in/nikhil-p-ba1581281/)
+- [LinkedIn](https://www.linkedin.com/in/nikhil-patel-ba1581281/)
 - [Personal Website](https://nikhil-eng.vercel.app/)
 
 ## 🛠️ Skills & Tools
