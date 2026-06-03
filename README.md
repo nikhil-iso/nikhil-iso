@@ -1,5 +1,3 @@
-I based this rewrite on your uploaded README. 
-
 # Nikhil Patel
 
 ## About Me
