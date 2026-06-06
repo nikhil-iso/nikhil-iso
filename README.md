@@ -24,40 +24,6 @@ Simulight is a personal project focused on building a sunrise alarm clock that u
 
 This project reflects the kind of engineering I enjoy most: practical, physical, and built around improving something in everyday life.
 
-## Skills and Tools
-
-### CAD and 3D Modeling
-
-* Fusion 360 for mechanical design, assemblies, rendering, and prototyping
-* SolidWorks for parametric modeling, assemblies, and engineering design work
-* AutoCAD for drafting, layouts, and technical drawings
-* Revit for architectural and structural modeling
-
-### Electronics and Mechatronics
-
-* Circuit design and prototyping
-* Sensor integration
-* Embedded systems development
-* Soldering and hands-on assembly
-* Microcontroller-based projects using Arduino, Raspberry Pi, ESP32, and Teensy platforms
-
-### Programming and Software
-
-* Python
-* C and C++
-* MATLAB
-* Git and GitHub
-* Markdown and technical documentation
-* Basic automation and data processing scripts
-
-### Prototyping and Fabrication
-
-* 3D printing
-* Laser cutting
-* Mechanical assembly
-* Enclosure design
-* Iterative testing and design improvement
-
 ## What I Am Working Toward
 
 I am working to become a stronger engineer by building projects that combine design, electronics, software, and real-world testing. I care about learning through practical experience, documenting my work clearly, and improving each version of a project instead of stopping at the first working design.
@@ -67,4 +33,4 @@ I am especially interested in aerospace systems, rocketry, robotics, embedded el
 ## Connect With Me
 
 * LinkedIn: [Nikhil Patel](https://www.linkedin.com/in/nikhil-patel-ba1581281/)
-* Personal Website: [nikhil-eng.vercel.app](https://nikhil-eng.vercel.app/)
+* Personal Website: [nikhil-eng.com](https://nikhil-eng.com/)
