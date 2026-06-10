@@ -1,5 +1,3 @@
-# Nikhil Patel
-
 ## About Me
 
 Hi, I'm Nikhil. I am an electrical engineering student at the University of Saskatchewan interested in mechatronics, electronics, aerospace, and hands-on engineering design.
